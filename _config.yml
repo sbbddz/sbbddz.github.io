@@ -21,7 +21,7 @@ twitter_username: sbbddz
 github_username: sbbddz
 minimal_mistakes_skin: default
 search: true
-
+repository: sbbddz/sbbddz.github.io
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
